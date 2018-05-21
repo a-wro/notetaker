@@ -1,0 +1,17 @@
+body {
+  margin: 20px;
+  padding: 20px;
+}
+
+img {
+  width: 30px;
+  height: 30px;
+}
+
+.btn {
+  width: 100%;
+}
+
+.narrow {
+  max-width: 200px;
+}
